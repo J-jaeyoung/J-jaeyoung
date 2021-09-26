@@ -1,5 +1,5 @@
 ### Hi there 👋
-![J-jaeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-jaeyoung&hide=contribs,prs)
+![J-jaeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-jaeyoung&hide=contribs,prs&theme=radical)
 
 <!--
 **J-jaeyoung/J-jaeyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
