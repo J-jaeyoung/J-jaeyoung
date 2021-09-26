@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
-![J-jaeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-jaeyoung&hide=contribs,prs&theme=radical)
+![J-jaeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-jaeyoung&hide=contribs,prs&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-jaeyoung&layout=compact&theme=radical&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-jaeyoung&layout=compact&theme=cobalt&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **J-jaeyoung/J-jaeyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
